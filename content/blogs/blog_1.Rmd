@@ -1,0 +1,25 @@
+---
+categories:
+- ""
+- ""
+date: "2017-10-31T21:28:43-05:00"
+description: ""
+draft: false
+image: Biking.jpg
+keywords: ""
+slug: aboutme
+title: About Me
+---
+
+Hello everyone, this is a short insight into my last 22 years. I was born in **Hong Kong** and lived there till I was 9 before shifting to New Delhi, India. In school I played the guitar and tennis - although admittedly not well. I studied Science at school *(Physics, Chemistry, Mathematics)*, and knew I didn't want to do it at university, which led me to study Economics at the University of Warwick.
+
+At Warwick, I was lucky enough to intern across 5 very different countries in finance - from investment banking with a boutique Indian firm, to Sales & Trading with HSBC Hong Kong, and now most recently a venture capital internship with a fund in Abu Dhabi. If it wasn't already clear, I'm quite indecisive. I'm now a third through my Masters at London Business School and looking at interning with an investment bank, similar to 90% of LBS. 
+
+# Beyond the boring stuff
+
+Outside of the careers, I recently tried picking up MMA (again, not going the best), and I started a social enterprise which gave me the chance to work with the United Nations. But I primarily dedicate this section to showing my adopted cockier spaniel, Santi.
+
+```{r}
+knitr::include_graphics("/img/Santi.png",error =FALSE)
+```
+

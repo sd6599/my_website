@@ -38,7 +38,7 @@ params:
     enable: yes
     quicklinks:
       - alt: My Spotify
-        text: 'My Spotify: '
+#        text: 'My Spotify: '
         url: https://open.spotify.com/user/1295524187?si=cd5f8d43f4774295
     social:
 #      - icon: fa-twitter
@@ -65,8 +65,8 @@ params:
     links:
       - name: About me
         url: blogs/aboutme
-      - name: My travels (& dog)
-        url: blogs/travel
+      - name: My CV
+        url: blogs/cv
       - name: Data analytics
         url: blogs
     button1:
@@ -86,13 +86,13 @@ params:
     enable: yes
     showcase:
       - image: Me.JPG
-        subtitle: A little (a lot) about me
+        subtitle: A little about me
         title: About Me
         url: blogs/aboutme
-      - image: pic02.jpg
-        subtitle: Describe whatever 2 is
-        title: Assignment 2
-        url: blogs/assignment2
+      - image: lbslogo.jpeg
+        subtitle: About my professional experiences
+        title: My CV
+        url: blogs/cv
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
