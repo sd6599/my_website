@@ -67,7 +67,7 @@ params:
         url: blogs/aboutme
       - name: My CV
         url: blogs/cv
-      - name: Data analytics
+      - name: All projects
         url: blogs
     button1:
       - name: Home
@@ -93,10 +93,10 @@ params:
         subtitle: About my professional experiences
         title: My CV
         url: blogs/cv
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+      - image: tfl.jpeg
+        subtitle: Trends in bike rentals
+        title: TfL Bike Study
+        url: blogs/tfl
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum

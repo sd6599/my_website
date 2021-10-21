@@ -19,7 +19,7 @@ At Warwick, I was lucky enough to intern across 5 very different countries in fi
 
 Outside of the careers, I recently tried picking up MMA (again, not going the best), and I started a social enterprise which gave me the chance to work with the United Nations. But I primarily dedicate this section to showing my adopted cockier spaniel, Santi.
 
-```{r}
+```{r, echo = FALSE}
 knitr::include_graphics("/img/Santi.png",error =FALSE)
 ```
 

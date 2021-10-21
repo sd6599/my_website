@@ -13,7 +13,7 @@ title: My CV
 
 Here's an insight into my professional experiences, along with a few of the extracurricular activities that I have been involved in for the last 4 years
 
-```{r}
+```{r, echo=FALSE}
 knitr::include_graphics("/img/cv.jpg",error =FALSE)
 ```
 
