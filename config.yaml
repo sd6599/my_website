@@ -80,14 +80,14 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+      - image: Santi.jpg
+        subtitle: Put whatever assignment 1 is
+        title: Assignment 1
+        url: blogs/assignment1
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: Describe whatever 2 is
+        title: Assignment 2
+        url: blogs/assignment2
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
