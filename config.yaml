@@ -1,6 +1,6 @@
 baseURL: https://sdalwani.netlify.app/
 languageCode: en-us
-title: Me
+title: Soham's Website
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,9 +8,8 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Soham
+     An attempt at trying to make my assignments look pretty
+    title: Soham's Website 
   blog: {}
   contact: 
     address:
@@ -35,19 +34,19 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Soham's Data Analytics Website
     enable: yes
     quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
-        url: https://www.html5up.net
+        url: https://www.html5up.net/
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
+        #icon: fa-twitter
+        #label: Twitter
+        #url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/soham.dalwani/
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com/sohamdalwani/
@@ -61,20 +60,20 @@ params:
   name: Your name
   navigation:
     button1:
-      - name: Get Started
+      - name: Read about me
         url: blogs
     button2:
-      - name: Log In
+      - name: Back to home
         url: '#'
     links:
-      - name: Home
+      - name: Welcome page
         url: '#'
-      - name: Blogs
+      - name: Posts
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+#      - name: Generic Blog
+ #       url: blogs/ipsum
+  #    - name: Elements
+   #     url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
