@@ -110,7 +110,7 @@ params:
 #        title: Etiam
 #        url: blogs/ipsum
   two:
-    buttonText: All blogs
+    buttonText: All posts
     enable: yes
     title: Read everything
     subtitle: "Click below to go through my CV, a short introduction about myself, and a few of the data analytics projects I've worked on"
