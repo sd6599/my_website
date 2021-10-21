@@ -11,8 +11,6 @@ slug: tfl
 title: An insight into bike rentals
 ---
 
-
-
 ```{r, setup, include=FALSE}
 knitr::opts_chunk$set(
   message = FALSE, 
@@ -45,7 +43,7 @@ library(vroom)
 
 # How have bike rentals changed in London
 
-As discussed in an earlier lecture, we will look at the daily cycle hires to assess the trends over time. The data source is provided by the government and covers daily Tf: cycle hires
+As discussed in an earlier lecture, we will look at the daily cycle hires to assess the trends over time. The data source is provided by the government and covers daily Tfl cycle hires
 
 *Source: https://data.london.gov.uk/download/number-bicycle-hires/ac29363e-e0cb-47cc-a97a-e216d900a6b0/tfl-daily-cycle-hires.xlsx*
 
