@@ -122,7 +122,7 @@ theme(panel.border = element_blank(), # remove border
       strip.background = element_blank() # remove background of headers
       ) + theme(axis.title.x = element_text(vjust = -2,size=14, face = "italic"), #adjust axis 
       axis.title.y = element_text(vjust = 3,size=14, face = "italic")) + 
-scale_y_continuous(labels = comma)
+scale_y_continuous()
 
 plot
 

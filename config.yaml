@@ -67,8 +67,8 @@ params:
         url: blogs/aboutme
       - name: My CV
         url: blogs/cv
-      - name: All projects
-        url: blogs
+      - name: Data analytics
+        url: blogs/tfl
     button1:
       - name: Home
         url:  '#'
@@ -97,10 +97,10 @@ params:
         subtitle: Trends in bike rentals
         title: TfL Bike Study
         url: blogs/tfl
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+#      - image: pic04.jpg
+#        subtitle: Nisl Sed Aliquam
+#        title: Ipsum
+#        url: blogs/ipsum
 #      - image: pic05.jpg
 #        subtitle: Ipsum Dolor Sit Amet
 #        title: Consequat
@@ -110,13 +110,8 @@ params:
 #        title: Etiam
 #        url: blogs/ipsum
   two:
-    buttonText: Get Started
+    buttonText: All blogs
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    title: Read everything
+    subtitle: "Click below to go through my CV, a short introduction about myself, and a few of the data analytics projects I've worked on"
     url: blogs
