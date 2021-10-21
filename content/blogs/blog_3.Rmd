@@ -70,7 +70,7 @@ bike <- bike0 %>%
 To get a better understanding of the data, we can plot out the usage by month 
 
 ```{r tfl_month_year_grid, echo=FALSE, out.width="100%", include=FALSE}
-knitr::include_graphics(here::here("images", "tfl_distributions_monthly.png"), error = FALSE)
+knitr::include_graphics("/img/tfl_distributions_monthly.png",error =FALSE)
 ```
 
 ## 2020 vs. Previous Years
@@ -133,7 +133,7 @@ plot
 The second one looks at percentage changes from the expected level of weekly rentals. The two grey shaded rectangles correspond to Q2 (weeks 14-26) and Q4 (weeks 40-52).
 
 
-Our graph is the one below with labels on both axes!
+The graph is the one below with labels on both axes!
 
 ```{r tfl_percent_change, out.width="100%", fig.width = 12, fig.height = 10}
 bike_expected_week_df <- bike %>% 
@@ -193,8 +193,5 @@ plot
 
 
 ```
-
-
-Should you use the mean or the median to calculate your expected rentals? Why?
 
 If we need to find out the expected value, it always means the long term average or mean. Depending on the distribution and skewness of the data, mean can be a better estimate when the data is left or right skewed, or when the standard deviations can cancel each other off.
