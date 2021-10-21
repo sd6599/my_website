@@ -6,26 +6,26 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Explore more
     subtitle: |-
-     An attempt at trying to make my assignments look pretty
-    title: Soham's Website 
+     Learn about me, my cocker spaniel, and my attempts at using R
+    title: Hello everyone, my name is Soham 
   blog: {}
   contact: 
     address:
       - city: London, L12 G43
         country: United Kingdom
-        street: Street 1
-        title: House 4
-    buttonClear: Clear
-    buttonSend: Send message
+        street: Regent's Park
+        title: London Business School
+    buttonClear: Clear all
+    buttonSend: Send 
     email:
       - email: sdalwani.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (853) 320-5642 x1234
-        title: Phone
+      - phone: (+91) 9958817567
+        title: Phone (India)
   custom_css: []
   custom_js: []
   description: Your description
@@ -34,12 +34,12 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Soham's Data Analytics Website
+    copyright: Soham Dalwani
     enable: yes
     quicklinks:
       - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net/
+#        text: 'Design: '
+#        url: https://www.html5up.net/
     social:
         #icon: fa-twitter
         #label: Twitter
@@ -59,28 +59,28 @@ params:
   image: ''
   name: Your name
   navigation:
+    links:
+      - name: About me
+        url: '#'
+      - name: Posts
+        url: blogs
     button1:
       - name: Read about me
         url: blogs
     button2:
       - name: Back to home
         url: '#'
-    links:
-      - name: Welcome page
-        url: '#'
-      - name: Posts
-        url: blogs
 #      - name: Generic Blog
  #       url: blogs/ipsum
   #    - name: Elements
    #     url: elements.html
-    menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    menu: Explore
+#    subtitle: About me
+    title: Soham Dalwani
   tiles:
     enable: yes
     showcase:
-      - image: Santi.jpg
+      - image: Santi.JPG
         subtitle: Put whatever assignment 1 is
         title: Assignment 1
         url: blogs/assignment1
